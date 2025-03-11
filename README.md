@@ -1,13 +1,13 @@
-# Hi 👋 I'm Armain Labeeb
+# Hi 👋 I'm Armain
 
 ## 🏗️ About Me:
 I am a fourth year Mechanical Engineering student at McGill University, passionate about exploring the realms of aerospace engineering, data science, and sustainable technology.
 
 ## 🚀 What I'm Up To
-* ✈️ Engine Performance Intern at Airbus Canada
-* 🔍 Researching sustainable aviation technologies 
+* ✈️ Data Science Intern at Airbus, A220 Engine Performance
+* 🔍 Researching sustainable aviation technologies (particularly propulsion)
 * 🧠 Exploring statistical and machine learning applications in aerospace
-* 📊 Researching long-term leveraged investing strategies
+* 📊 Backtesting long-term leveraged investing strategies
 
 ## 🔧 Tech Stack:
 
