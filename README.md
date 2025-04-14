@@ -1,13 +1,14 @@
 # Hi 👋 I'm Armain
 
 ## 🏗️ About Me:
-I am a fourth year Mechanical Engineering student at McGill University, passionate about exploring the realms of data science, aerospace engineering, mathematical finance, urbanism and sustainable technology.
+I am a fourth year Mechanical Engineering student at McGill University, passionate about exploring the realms of data science, aerospace engineering, mathematical finance and quantitative trading.
 
 ## 🚀 What I'm Up To
-* ✈️ Data Science Intern at Airbus, A220 Engine Performance
+* ✈️ Time Series Analyst Intern at Airbus, A220 Engine Performance
+* 📊 Backtesting long-term leveraged investing strategies
+* 🧑‍🎓 Studying financial theory, mathematical finance and mastering data structures and algorithms
 * 🔍 Researching sustainable aviation technologies (particularly propulsion)
 * 🧠 Exploring statistical and machine learning applications in aerospace
-* 📊 Backtesting long-term leveraged investing strategies
 
 ## 🔧 Tech Stack:
 
