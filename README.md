@@ -4,7 +4,7 @@
 I am a fourth year Mechanical Engineering student at McGill University, passionate about exploring the realms of data science, aerospace engineering, mathematical finance and quantitative trading.
 
 ## 🚀 What I'm Up To
-* ✈️ Time Series Analyst Intern at Airbus, A220 Engine Performance
+* ✈️ Data Science & ML Intern at Airbus, A220 Thermodynamics & Engine Performance
 * 📊 Backtesting long-term leveraged investing strategies
 * 🧑‍🎓 Studying financial theory, mathematical finance and mastering data structures and algorithms
 * 🔍 Researching sustainable aviation technologies (particularly propulsion)
